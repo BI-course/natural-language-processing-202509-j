@@ -4,7 +4,7 @@
 
 ## Student Details
 
-**Name of the team on GitHub Classroom:**
+**Name of the team on GitHub Classroom:** 202509-j
 
 **Team Member Contributions:**
 
@@ -12,41 +12,9 @@
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
-
-**Member 2**
-
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
-
-**Member 3**
-
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
-
-**Member 4**
-
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
-
-**Member 5**
-
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    | 147473 |
+| **Name:**                                                                                          | Abdullahi Amin Hassan |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** | Completed both notebooks individually, topic modelling using LDA and sentiment analysis using a supervised classifier. Built and deployed a Streamlit interface for real-time topic and sentiment prediction. Learned how LDA discovers latent topics in large text corpora and how TF-IDF combined with a classifier can effectively predict sentiment from hotel reviews. |
 
 ## Scenario
 
@@ -94,8 +62,8 @@ Also include (in the same video) the user interface hosted on hugging face or st
 
 | **Key**                             | **Value** |
 |:------------------------------------|:----------|
-| **Link to the video:**              |           |
-| **Link to the hosted application:** |           |
+| **Link to the video:**              |  https://drive.google.com/file/d/1k9U7ol7Tl0vG9wiHgFBlYws-Qb9-ar87/view?usp=sharing         |
+| **Link to the hosted application:** |  https://natural-language-processing-202509-j-jhfmvxn25dg9hrsubrntr2.streamlit.app/         |
 
 ## Grading Approach
 
